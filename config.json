@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Akash",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -10,15 +10,15 @@
   "NOTIFICATION": true,
   "EMAIL": "your email",
   "PASSWORD": "your password",
-  "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "OTPKEY": "/",
+  "BOTNAME": "─꯭─⃝‌‌𝐀𝐤𝐚𝐬𝐡 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "100001039692046",
-    "100001039692046"
+    "61580601235729",
+    "61580601235729",
+    "61580601235729"
   ],
   "NDH": ["100001039692046"],
   "adminOnly": false,
