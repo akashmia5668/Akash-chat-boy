@@ -46,9 +46,9 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 │
 ├─ 👑 𝗡𝗮𝗺𝗲 : 𝐀𝐤𝐚𝐬𝐡 𝐈𝐬𝐥𝐚𝐦
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-│ facebook.com/61580601235729
+│ https://www.facebook.com/profile.php?id=61584801930134
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-│ m.me/61580601235729
+│ https://www.facebook.com/profile.php?id=61584801930134
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
 │ wa.me/+880199850****
 │
