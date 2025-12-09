@@ -41,9 +41,9 @@ module.exports.run = async ({ api, event }) => {
 ╟─────────────────
 ║ 📩 Connect With Him: 
 ║ ➤ 📘 Facebook : 
-║ www.facebook.com/61580601235729 
+║ https://www.facebook.com/profile.php?id=61584801930134 
 ║ ➤ 💬 Messenger : 
-║ m.me/61580601235729
+║ m.me/61584801930134
 ║ ➤ 📱 WhatsApp : 
 ║ https://wa.me/+880199850**** 
 ╟─────────────────
@@ -73,7 +73,7 @@ module.exports.run = async ({ api, event }) => {
 ║ ⏳ Seconds : ${diffSeconds}
 ╚════════════════════╝`;
 
- const url = `https://graph.facebook.com/61580601235729/picture?height=720&width=720`;
+ const url = `https://graph.facebook.com/61584801930134/picture?height=720&width=720`;
 
  try {
  const response = await axios({
