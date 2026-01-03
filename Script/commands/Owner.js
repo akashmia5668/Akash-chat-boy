@@ -30,9 +30,9 @@ module.exports.run = async function ({ api, event }) {
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═════════════════════ ✿
 ║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-║ https://www.facebook.com/profile.php?id=61584801930134
+║ https://www.facebook.com/profile.php?id=61585810854884
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-║ m.me/61584801930134
+║ m.me/61585810854884
 ║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
 ║ wa.me/0199850****
 ║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
