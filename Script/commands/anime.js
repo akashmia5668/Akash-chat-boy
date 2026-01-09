@@ -2,8 +2,8 @@ module.exports.config = {
   name: "anemi",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
-  description: "Random Anime Videos From SAHU API",
+  credits: "Akash",
+  description: "Random Anime Videos From AKASH API",
   commandCategory: "video",
   usages: "anemi",
   cooldowns: 5
